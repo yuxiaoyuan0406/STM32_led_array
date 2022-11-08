@@ -1,3 +1,0 @@
-[submodule "hal_mpu6050"]
-	path = Core/hal_mpu6050
-	url = git@github.com:yuxiaoyuan0406/hal_mpu6050.git
